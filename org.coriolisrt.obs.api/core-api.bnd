@@ -1,0 +1,6 @@
+Export-Package: org.coriolisrt.obs.api
+Bundle-Name: CoriolisRT OSGi Blog System API
+Bundle-Description: This is the central api used by services and code in the CoriolisRT OSGi Blogging System
+Bundle-Category: blog
+Bundle-Copyright: 2013
+Bundle-Vendor: CoriolisRT
