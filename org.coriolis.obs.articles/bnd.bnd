@@ -1,8 +1,0 @@
-Private-Package: org.example
-Service-Component: *
--buildpath: osgi.core,\
-	osgi.cmpn,\
-	biz.aQute.bnd.annotation,\
-	junit.osgi,\
-	org.coriolisrt.obs.api.core-api;version=latest
--sub: *.bnd

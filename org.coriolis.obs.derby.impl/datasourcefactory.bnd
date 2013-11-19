@@ -1,0 +1,7 @@
+Private-Package: org.coriolis.obs.derby.impl,\
+	org.apache.derby.osgi
+Service-Component: *
+Bundle-Activator: org.apache.derby.osgi.EmbeddedActivator
+Bundle-Name: CoriolisRT Derby DataSourceFactory Implementation
+Bundle-Description: This bundle implements an embedded derby server and the DataSourceFactory needed to work with it
+Bundle-Category: db

@@ -10,4 +10,6 @@ public interface ArticleManager {
 	Article getArticle(int dbid);
 	List<Article> getArticlesByCategory(String categoryName, int limit);
 	List<Article> getArticlesByTag(String[] tags,int limit);
+	
+	void submitArticle(Article article);
 }

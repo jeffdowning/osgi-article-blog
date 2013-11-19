@@ -1,0 +1,6 @@
+Private-Package: org.coriolis.obs.derby.impl,\
+	org.coriolis.obs.derby.setup
+Service-Component: *
+Bundle-Name: CoriolisRT OSGi ArticleManager Implementation
+Bundle-Description: The CoriolisRT OSGi ArticleManager Implementation is the article manager for a blog/news application
+Bundle-Category: blog
