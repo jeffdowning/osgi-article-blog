@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Nov 19 17:16:04 EST 2013:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-0142-726f-4787-0000053c08a8 
+Tue Nov 19 17:20:13 EST 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-0142-7273-10f4-000005f44aa0 
 on database directory /Users/JSDowning/Documents/osgiblog/org.coriolis.obs.articles.impl/articlesDB  with class loader derby [7] 
 Loaded from reference:file:/Users/JSDowning/Documents/osgiblog/cnf/localrepo/derby/derby-10.7.1000001.jar
 java.vendor=Oracle Corporation
